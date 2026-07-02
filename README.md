@@ -1,13 +1,22 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hello+there!;I+am+Dylan!;An+aspiring+Software+Developer"></img></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?size=30&font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Hello+there!;I+am+an+aspiring+Software+Developer"></img></p>
 <h1>Leander Dylan Broñola <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZrNWxsa2ZhZDRldnJucW5kYWg3NTM3NWR2bTNvb3N3eDRzMW44NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="5%"></h1>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1bnk1dW54YXBvOTl4eG44eXo3ZzdoYzl1b2g1YmNlZTgwengxbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30%"></img>
-<h3>An aspiring Software Developer</h3>
+<p>Pampanga, Philippines · Aspiring Software Developer</p>
 
 ---
 
-- 🌱 I’m currently learning **Python, Laravel, and Javascript**
+### About Me
+Hello! I am an adaptable software developer who thrives at the intersection of logical problem-solving and creative storytelling. With a strong foundation in core programming and web technologies, I build clean, functional applications while continuously expanding my full-stack ecosystem.
 
-- 📫 How to reach me **leanderdylan.01@gmail.com**
+### What I'm Up To:
+* **Core Strengths:** Building robust applications with Java and structuring responsive, visual web experiences using HTML & CSS.
+* **Active Growth Areas:** Deep-diving into modern full-stack frameworks like Laravel and Bootstrap, while connecting systems via MySQL.
+* **Automation & Data:** Leveraging Python for scripting, prototyping, and streamlining repetitive tasks.
+* **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
+
+<h3>Some of my works:</h3>
+<h4>Cookeys:</h4>
+<a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="100%"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
