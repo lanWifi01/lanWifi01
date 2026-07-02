@@ -1,5 +1,7 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Leander Dylan Broñola</h1>
-<h3 align="center">An aspiring Software Developer</h3>
+<div align='center'>
+<h1>Hi, I'm Leander Dylan Broñola <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h3>An aspiring Software Developer</h3>
+</div>
 
 - 🌱 I’m currently learning **Python, Laravel, and Javascript**
 
