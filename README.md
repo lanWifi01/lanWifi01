@@ -1,7 +1,9 @@
-<div align='center'>
-<h1>Hi, I'm Leander Dylan Broñola <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://app.lottiefiles.com/share/82ea0fc4-a34a-4d4a-8912-da666c84e75b)" width="5%"></h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hello+there!;I+am+Dylan!;An+aspiring+Software+Developer"></img></p>
+<h1>Leander Dylan Broñola <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZrNWxsa2ZhZDRldnJucW5kYWg3NTM3NWR2bTNvb3N3eDRzMW44NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="5%"></h1>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1bnk1dW54YXBvOTl4eG44eXo3ZzdoYzl1b2g1YmNlZTgwengxbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30%"></img>
 <h3>An aspiring Software Developer</h3>
-</div>
+
+---
 
 - 🌱 I’m currently learning **Python, Laravel, and Javascript**
 
