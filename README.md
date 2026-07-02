@@ -14,9 +14,18 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 * **Automation & Data:** Leveraging Python for scripting, prototyping, and streamlining repetitive tasks.
 * **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
 
-<h3>Some of my works:</h3>
-<h4>Cookeys (Group Work):</h4>
-<a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
+### Some of my works:
+#### Cookeys (Group Work):
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
+
+### GitHub statistics:
+  ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanWifi01)
+
+### Top languages:
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lanWifi01&langs_count=4)
+
+### Development time:
+  [![Dylan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=lanWifi01&langs)](https://wakatime.com/@lanWifi01)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
