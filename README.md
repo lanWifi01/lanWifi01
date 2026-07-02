@@ -14,6 +14,8 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 * **Automation & Data:** Leveraging Python for scripting, prototyping, and streamlining repetitive tasks.
 * **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
 
+### Other Details About Me:
+
 <details>
   <summary><b>Some of my works</b></summary>
 
