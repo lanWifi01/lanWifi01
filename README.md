@@ -15,7 +15,7 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 * **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
 
 <h3>Some of my works:</h3>
-<h4>Cookeys:</h4>
+<h4>Cookeys (Group Work):</h4>
 <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="100%"></a>
 
 <h3 align="left">Connect with me:</h3>
