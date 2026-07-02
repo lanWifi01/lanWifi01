@@ -16,7 +16,7 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 
 <h3>Some of my works:</h3>
 <h4>Cookeys (Group Work):</h4>
-<a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="100%"></a>
+<a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
