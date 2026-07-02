@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Hi, I'm Leander Dylan Broñola <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1>Hi, I'm Leander Dylan Broñola <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://app.lottiefiles.com/share/82ea0fc4-a34a-4d4a-8912-da666c84e75b)" width="5%"></h1>
 <h3>An aspiring Software Developer</h3>
 </div>
 
