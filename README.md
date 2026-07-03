@@ -19,32 +19,37 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
 
+<div align="center">
+
 ### Other Details About Me:
 
-<details>
+<details open>
   <summary><b>Some of my works</b></summary>
 
-  ### &emsp; Cookeys (Group Work):
-  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="80%"></a>
+  #### &emsp; Cookeys (Group Work):
+  <div>
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
+  <p><a href="https://cookeys-test-2.vercel.app/Project_Home.html">Visit the website here</a></p>
+  </div>
 
 </details>
 
 ---
 
-<details>
+<details open>
   <summary><b>Github Stats</b></summary>
 
-  ### &emsp;GitHub statistics:
+  <!-- #### &emsp;GitHub statistics: -->
   ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanWifi01)
 
 </details>
 
 ---
 
-<details>
+<details open>
   <summary><b>Top Lanuguages</b></summary>
 
-  ### &emsp; Top languages:
+  <!-- #### &emsp; Top languages: -->
   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lanWifi01&langs_count=4)
 
 </details>
@@ -64,3 +69,4 @@ Hello! I am an adaptable software developer who thrives at the intersection of l
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
