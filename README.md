@@ -76,6 +76,28 @@ A group web project built with my teammates.
 
 ---
 
+## Contribution snake 🐍
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake.svg"
+    />
+    <img
+      alt="Snake animation of lanWifi01's GitHub contributions"
+      src="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <em>Thanks for stopping by. Let's keep learning and creating.</em>
 </p>
