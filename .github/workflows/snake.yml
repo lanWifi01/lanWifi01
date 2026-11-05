@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: lanWifi01
           outputs: |
-            dist/github-snake.svg?color_snake=%231E90FF&color_dots=%23ebedf0,%23cce5ff,%2399ccff,%234da6ff,%230066cc
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%231E90FF&color_dots=%23161b22,%230d2847,%23144970,%231e70b5,%2358a6ff
+            dist/github-snake-blue.svg?color_snake=#1E90FF&color_dots=#ebedf0,#cce5ff,#99ccff,#4da6ff,#0066cc
+            dist/github-snake-blue-dark.svg?palette=github-dark&color_snake=#1E90FF&color_dots=#161b22,#0d2847,#144970,#1e70b5,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
