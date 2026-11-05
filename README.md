@@ -26,7 +26,7 @@
 
 I'm an aspiring software developer who enjoys turning ideas into practical applications. I bring a mix of logical problem-solving and creativity to my work, from building with Java to designing responsive web experiences with HTML and CSS.
 
-- 💻 **Building on:** Java, HTML, and CSS.
+- 💻 **Building on:** JavaScript, HTML, and CSS.
 - 🌱 **Exploring:** Laravel, Bootstrap, and MySQL to connect the pieces of full-stack applications.
 - 🐍 **Experimenting with:** Python for scripting, prototyping, and automating repetitive tasks.
 - 🎵 **Beyond the keyboard:** Playing musical instruments, writing, and watching anime.
