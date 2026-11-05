@@ -1,77 +1,89 @@
-<img id="top" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:000080&fontColor=FFFFF0&fontSize=40&text=Hello%20World!&fontAlignY=40&fontAlign=80" width="100%"></img>
-<h1 align="center">Leander Dylan Broñola <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZrNWxsa2ZhZDRldnJucW5kYWg3NTM3NWR2bTNvb3N3eDRzMW44NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="5%"></h1>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?size=20&font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=An+aspiring+Software+Developer"></img></p>
-<p align="center">Pampanga, Philippines · Aspiring Software Developer</p>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1bnk1dW54YXBvOTl4eG44eXo3ZzdoYzl1b2g1YmNlZTgwengxbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30%"></img>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
+<a id="top"></a>
 
-
-<h3 align="">About Me</h3>
-
-* Hello! I am an adaptable software developer who thrives at the intersection of logical problem-solving and creative storytelling. 
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-### What I'm Up To:
-* **Core Strengths:** Building robust applications with Java and structuring responsive, visual web experiences using HTML & CSS.
-* **Active Growth Areas:** Deep-diving into modern full-stack frameworks like Laravel and Bootstrap, while connecting systems via MySQL.
-* **Automation & Data:** Leveraging Python for scripting, prototyping, and streamlining repetitive tasks.
-* **Outside of Code:** You can find me playing musical instruments, writing, or catching up on my favorite anime.
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-<div align="center">
-
-### Other Details About Me:
-
-<details open>
-  <summary><b>Some of my works</b></summary>
-
-  #### &emsp; Cookeys (Group Work):
-  <div>
-  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank" title="Click to open cookeys"><img src="pic.png" alt="Cookeys Web Mockup" width="50%"></a>
-  <p><a href="https://cookeys-test-2.vercel.app/Project_Home.html">Visit the website here</a></p>
-  </div>
-
-</details>
-
----
-
-<details open>
-  <summary><b>Github Stats</b></summary>
-
-  <!-- #### &emsp;GitHub statistics: -->
-  ![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=lanWifi01)
-
-</details>
-
----
-
-<details open>
-  <summary><b>Top Lanuguages</b></summary>
-
-  <!-- #### &emsp; Top languages: -->
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lanWifi01&langs_count=4)
-
-</details>
-
-<!-- ### Development time:
-  [![Dylan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=lanWifi01&range=last_7_days)](https://wakatime.com/@lanWifi01) -->
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/leanderdylannnnbronola01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leanderdylannnnbronola01" height="30" width="40" /></a>
-<a href="https://instagram.com/lan_wifi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lan_wifi01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:000080&section=header&text=Hello%2C%20world!&fontSize=42&fontColor=FFFFFF&fontAlignY=36" width="100%" alt="Hello, world!" />
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #1E90FF, #000080);">
+<h1 align="center">Hi, I'm Leander Dylan Broñola 👋</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</div>
+<p align="center">
+  <strong>Aspiring Software Developer · Pampanga, Philippines</strong>
+</p>
 
-<p align="center"><a href="#top">Back to Top</a>
+<p align="center">
+  Logical thinking. Creative storytelling. Thoughtful software.
+</p>
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1E90FF,100:000080&fontColor=FFFFF0&fontSize=40&text=Thanks%20be%20to%20God&fontAlignY=70&fontAlign=76" width="100%"></img>
+<p align="center">
+  <a href="https://github.com/lanWifi01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://fb.com/leanderdylannnnbronola01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Connect on Facebook" /></a>
+  <a href="https://instagram.com/lan_wifi01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Connect on Instagram" /></a>
+</p>
+
+---
+
+## A little about me
+
+I'm an aspiring software developer who enjoys turning ideas into practical applications. I bring a mix of logical problem-solving and creativity to my work, from building with Java to designing responsive web experiences with HTML and CSS.
+
+- 💻 **Building on:** Java, HTML, and CSS.
+- 🌱 **Exploring:** Laravel, Bootstrap, and MySQL to connect the pieces of full-stack applications.
+- 🐍 **Experimenting with:** Python for scripting, prototyping, and automating repetitive tasks.
+- 🎵 **Beyond the keyboard:** Playing musical instruments, writing, and watching anime.
+
+## Languages & tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## Featured project
+
+### 🍪 Cookeys
+
+A group web project built with my teammates.
+
+<!-- Keep pic.png in the same directory as this README to display the preview. -->
+<p align="center">
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html">
+    <img src="pic.png" alt="Cookeys website preview — open the live website" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html"><strong>Explore Cookeys →</strong></a>
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lanWifi01&show_icons=true&theme=tokyonight&hide_border=true" alt="Leander Dylan's GitHub statistics" width="480" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lanWifi01&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages across public repositories" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by. Let's keep learning and creating.</em>
+</p>
+<p align="center">
+  <strong>Thanks be to God.</strong>
+</p>
+<p align="center">
+  <a href="#top">Back to top ↑</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:1E90FF,100:000080" width="100%" alt="Blue wave footer" />
