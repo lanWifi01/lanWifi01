@@ -82,15 +82,11 @@ A group web project built with my teammates.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake-blue-dark.svg"
     />
     <img
-      alt="Snake animation of lanWifi01's GitHub contributions"
-      src="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake.svg"
+      alt="Blue contribution snake"
+      src="https://raw.githubusercontent.com/lanWifi01/lanWifi01/output/github-snake-blue.svg"
       width="100%"
     />
   </picture>
