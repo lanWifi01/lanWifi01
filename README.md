@@ -56,13 +56,13 @@ A group web project built with my teammates.
 
 <!-- Keep pic.png in the same directory as this README to display the preview. -->
 <p align="center">
-  <a href="https://cookeys-test-2.vercel.app/Project_Home.html">
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank">
     <img src="pic.png" alt="Cookeys website preview — open the live website" width="720" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://cookeys-test-2.vercel.app/Project_Home.html"><strong>Explore Cookeys →</strong></a>
+  <a href="https://cookeys-test-2.vercel.app/Project_Home.html" target="_blank><strong>Explore Cookeys →</strong></a>
 </p>
 
 ## GitHub activity
