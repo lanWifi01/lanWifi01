@@ -128,16 +128,20 @@ A clinic management system designed to support patient records, visit management
 
 <p align="center">
   <!-- Replace this placeholder with your actual screenshot -->
-  <img src="assets/lvprms-preview.png" alt="LVPRMS Clinic Management System Preview" width="720" />
+  <img src="assets/lvprms.png" alt="LVPRMS Clinic Management System Preview" width="720" />
 </p>
 
 <p align="center">
-  <strong>🔗 Repository:</strong> Coming Soon
+  <a href="#">
+    <strong>🌐 Demo Soon</strong>
+  </a>
   &nbsp;|&nbsp;
-  <strong>🌐 Demo:</strong> Coming Soon
+  <a href="#">
+    <strong>🔗 Repository Soon</strong>
+  </a>
 </p>
 
-> **Note:** Academic collaborative project. Showcase only screenshots and source code approved for public sharing. Never include actual patient records or credentials.
+> **Note:** Academic collaborative project. Showcase only screenshots approved for public sharing. Never include actual patient records or credentials.
 
 ---
 
@@ -158,13 +162,17 @@ A web-based educational application designed to help users organize study materi
 **Technologies:** PHP, JavaScript, HTML, CSS, SQLite / MySQL
 
 <p align="center">
-  <img src="assets/quizmania-preview.png" alt="QuizMania Application Preview" width="720" />
+  <img src="assets/quizmania.png" alt="QuizMania Application Preview" width="720" />
 </p>
 
 <p align="center">
-  <strong>🔗 Repository:</strong> Add Repository Link
+  <a href="#">
+    <strong>🌐 Demo Soon</strong>
+  </a>
   &nbsp;|&nbsp;
-  <strong>🌐 Demo:</strong> Add Demo Link
+  <a href="https://github.com/lanWifi01/quizmania">
+    <strong>🔗 View Repository</strong>
+  </a>
 </p>
 
 ---
@@ -185,7 +193,7 @@ A Chrome extension designed to simplify online class management by organizing me
 **Technologies:** JavaScript, HTML, CSS, Chrome Extension APIs
 
 <p align="center">
-  <img src="assets/class-launcher-preview.png" alt="Online Class Launcher Extension Preview" width="720" />
+  <img src="assets/class-launcher.png" alt="Online Class Launcher Extension Preview" width="720" />
 </p>
 
 <p align="center">
@@ -218,18 +226,22 @@ An ongoing personal finance application project aimed at helping users manage da
 - Database: PostgreSQL
 - Forecasting: Deterministic mathematical models
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/budgeting-preview.png" alt="Budgeting Application Preview" width="720" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" alt="In Progress" />
 </p>
 
 <p align="center">
-  <strong>🔗 Repository:</strong> Add Repository Link
+  <a href="#">
+    <strong>🌐 Demo Soon</strong>
+  </a>
   &nbsp;|&nbsp;
-  <strong>🌐 Demo:</strong> Not Yet Available
+  <a href="https://github.com/lanWifi01/financial-budgeting-app">
+    <strong>🔗 View Repository</strong>
+  </a>
 </p>
 
 > Currently in development. Features listed above describe the intended scope and are not claims of completed functionality.
@@ -286,9 +298,7 @@ I'm also exploring game development using **Godot 4 and GDScript**, focusing on 
 - Collision detection and kill zones
 - Reusable scenes and resources
 
-<p align="center">
-  <img src="assets/godot-preview.png" alt="Godot Game Development Preview" width="720" />
-</p>
+![Godot Game Development Preview](assets/godot-game.gif)
 
 ---
 
