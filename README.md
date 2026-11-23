@@ -1,3 +1,8 @@
+<!-- Links to add:
+https://www.upwork.com/freelancers/~01c072d40fb45a192f?mp_source=share
+
+raket.ph/leanderdylan_01
+ -->
 
 <a id="top"></a>
 
@@ -20,6 +25,9 @@
 </p>
 
 <p align="center">
+  <a href="https://leander-dylan-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=flat-square&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  </a>
   <a href="https://github.com/lanWifi01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -49,6 +57,12 @@ I enjoy working across the software development lifecycle, from planning and dat
 - 🎵 Outside coding, I enjoy music, writing, and anime.
 
 > I believe great software should not only work — it should solve real problems and create meaningful experiences.
+
+<p align="center">
+  <a href="https://leander-dylan-portfolio.vercel.app/" target="_blank">
+    <strong>🌐 Explore My Portfolio — Projects, Skills & Experience</strong>
+  </a>
+</p>
 
 ---
 
@@ -117,6 +131,7 @@ A selection of my academic, collaborative, and personal software development pro
 A clinic management system designed to support patient records, visit management, referrals, inventory tracking, and clinic operations.
 
 **Key Areas:**
+
 - Patient registration and visit management
 - Referral and patient status tracking
 - Medical inventory management
@@ -152,6 +167,7 @@ A clinic management system designed to support patient records, visit management
 A web-based educational application designed to help users organize study materials and test their knowledge through interactive quizzes.
 
 **Key Features:**
+
 - User registration and authentication
 - Topic and study material management
 - Add, edit, and delete terms and definitions
@@ -184,6 +200,7 @@ A web-based educational application designed to help users organize study materi
 A Chrome extension designed to simplify online class management by organizing meeting links and automating scheduled class launches.
 
 **Key Features:**
+
 - Online class schedule management
 - Automatic launching of meeting links
 - Local browser data storage
@@ -211,6 +228,7 @@ A Chrome extension designed to simplify online class management by organizing me
 An ongoing personal finance application project aimed at helping users manage daily finances, monitor spending, plan budgets, and make more informed financial decisions.
 
 **Planned Features:**
+
 - Income and expense tracking
 - Budget allocation and monitoring
 - Financial dashboards and visualizations
@@ -220,6 +238,7 @@ An ongoing personal finance application project aimed at helping users manage da
 - Future mobile application support
 
 **Planned Technologies:**
+
 - Backend: Django / Python
 - Frontend: React
 - Mobile: React Native
@@ -257,6 +276,7 @@ A responsive Filipino recipe website developed collaboratively with teammates.
 My contributions focused on **JavaScript functionality and CSS styling**.
 
 **Features:**
+
 - Responsive website navigation
 - Interactive homepage
 - Recipe categories and browsing
@@ -346,6 +366,9 @@ I'm interested in opportunities involving:
 I'm always open to learning, collaborating, and building useful software.
 
 <p align="center">
+  <a href="https://leander-dylan-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio Website" />
+  </a>
   <a href="https://github.com/lanWifi01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
